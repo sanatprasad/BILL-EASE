@@ -9,7 +9,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
 
-public class BillingSystem {
+public class BillEase {
 
     public static void main(String args[]) throws IOException {       
         try {
